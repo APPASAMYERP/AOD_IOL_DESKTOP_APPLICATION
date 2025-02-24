@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet_LotCollectionList" targetNamespace="http://tempuri.org/DataSet_LotCollectionList.xsd" xmlns:mstns="http://tempuri.org/DataSet_LotCollectionList.xsd" xmlns="http://tempuri.org/DataSet_LotCollectionList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet_LotCollectionList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet_LotCollectionList" msprop:Generator_DataSetName="DataSet_LotCollectionList" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="LotCollectionList" msprop:Generator_UserTableName="LotCollectionList" msprop:Generator_RowDeletedName="LotCollectionListRowDeleted" msprop:Generator_RowChangedName="LotCollectionListRowChanged" msprop:Generator_RowClassName="LotCollectionListRow" msprop:Generator_RowChangingName="LotCollectionListRowChanging" msprop:Generator_RowEvArgName="LotCollectionListRowChangeEvent" msprop:Generator_RowEvHandlerName="LotCollectionListRowChangeEventHandler" msprop:Generator_TableClassName="LotCollectionListDataTable" msprop:Generator_TableVarName="tableLotCollectionList" msprop:Generator_RowDeletingName="LotCollectionListRowDeleting" msprop:Generator_TablePropName="LotCollectionList">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Brand_Name" msprop:Generator_UserColumnName="Brand_Name" msprop:Generator_ColumnVarNameInTable="columnBrand_Name" msprop:Generator_ColumnPropNameInRow="Brand_Name" msprop:Generator_ColumnPropNameInTable="Brand_NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Model_Name" msprop:Generator_UserColumnName="Model_Name" msprop:Generator_ColumnVarNameInTable="columnModel_Name" msprop:Generator_ColumnPropNameInRow="Model_Name" msprop:Generator_ColumnPropNameInTable="Model_NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="RefLot" msprop:Generator_UserColumnName="RefLot" msprop:Generator_ColumnVarNameInTable="columnRefLot" msprop:Generator_ColumnPropNameInRow="RefLot" msprop:Generator_ColumnPropNameInTable="RefLotColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Power" msprop:Generator_UserColumnName="Power" msprop:Generator_ColumnVarNameInTable="columnPower" msprop:Generator_ColumnPropNameInRow="Power" msprop:Generator_ColumnPropNameInTable="PowerColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SrNo" msprop:Generator_UserColumnName="SrNo" msprop:Generator_ColumnVarNameInTable="columnSrNo" msprop:Generator_ColumnPropNameInRow="SrNo" msprop:Generator_ColumnPropNameInTable="SrNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Lot_No" msprop:Generator_UserColumnName="Lot_No" msprop:Generator_ColumnVarNameInTable="columnLot_No" msprop:Generator_ColumnPropNameInRow="Lot_No" msprop:Generator_ColumnPropNameInTable="Lot_NoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Reference_Name" msprop:Generator_UserColumnName="Reference_Name" msprop:Generator_ColumnPropNameInRow="Reference_Name" msprop:Generator_ColumnVarNameInTable="columnReference_Name" msprop:Generator_ColumnPropNameInTable="Reference_NameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

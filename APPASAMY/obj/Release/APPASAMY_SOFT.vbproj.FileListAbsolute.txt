@@ -1,0 +1,1134 @@
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+C:\Users\Eye\Desktop\soft\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+E:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+K:\Appasamy_SoftLens_06122012_6.00PM\Appasamy_SoftLens_06122012_6.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+E:\Appasamy_SoftLens_15032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+E:\Working folder\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+F:\Appasamy_SoftLens_20032013_4.00PM\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+F:\Appasamy_SoftLens_09042013_11.35Am\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+E:\Working folder\Back\Appasamy_SoftLens_09042013_13.35AmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+K:\working_Folder\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+K:\working_Folder_Important\Back\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\Appasamy_SoftLens_18042013_13.46pmFORDOUBLE\APPASAMY_SOFT\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+K:\working_Folder_Important\Back\APPASAMY_SOFT_11042014_forDCMoulding\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+K:\working_Folder_Important\APPASAMY_SOFT_29052014_forBPL_Speial_Expiry\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+K:\working_Folder_Important\APPASAMY_SOFT_04072014_forAregtnina_Work\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+K:\working_Folder_Important\APPASAMY_SOFT_04072014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+K:\working_Folder_Important\APPASAMY_SOFT_04072014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+K:\working_Folder_Important\APPASAMY_SOFT_04072014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+K:\working_Folder_Important\APPASAMY_SOFT_11092014_forAregtnina_Work\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerUpdation.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Report.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+D:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerUpdation.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Report.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+I:\Amali_Working_Folder\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerUpdation.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.Report.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+I:\karthik\Audit_PouchWork_Softlesn_Chennai-NP\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\APPASAMY_SOFT.exe.config
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\APPASAMY_SOFT.exe
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\APPASAMY_SOFT.pdb
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\APPASAMY_SOFT.xml
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\BarcodeLib.Barcode.dll
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\Interop.BarTender.dll
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\Neodynamic.WinControls.BarcodeProfessional.dll
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\Neodynamic.WinControls.Design.BarcodeProfessional.dll
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\Seagull.BarTender.Print.dll
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\Microsoft.SqlServer.DTSRuntimeWrap.dll
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\Seagull.Security.Interop.dll
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\Microsoft.SqlServer.GridControl.dll
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\bin\Release\Seagull.Interop.dll
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.BPL_Cancellation.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.BPL_Dashboard.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.Convyer.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.cstreportform.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.CustomMessageBox.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmAerationStockStatus.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmAssetId_LabelPrint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmBatchRelease.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmBeforeSterilization.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmBeforeSterilization_New1.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmBeforeSterilization_PMMA.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmBoxInspection.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmBoxOutward.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBoxPackingRecord.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmBoxPackingReport.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmBoxPackingReprintReport.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmBoxPack_MTS_Report.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmBoxPack_MTS_Report_View.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBPLVIewFrm.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmBTWMaster.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmCheckPendingLotsToScan.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcPrintSoft.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDcViewRpt.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmDC_RePrint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmDespatchrpt.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmInjectorInspection.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmInjectorRjectionMTS_Report.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmInjectorSample.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmInjectorStockReceive.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmInjector_Movement.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.Frminjector_steriletoaereationmove.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.Frminjectot_to_sterile.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmlotallotprint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotdetailsReport.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmLotWiseTrackingReport.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmmodelprint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmMTS_Injector_Report.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmMTS_Report_Box_Reject.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmMTS_Report_Sterile_Reject.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPacking.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPackingPHILIC.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPackingPHOBIC.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPackingPMMA.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBoxPackingSUPERPHOB.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewBPLGen.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmLotMaster.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmMain.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmNewBPL_Dashboard.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCartonBoxEntry.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCtrlSample.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewCustomerCatalog.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDC2D.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcSoft.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewDcPackingList.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjectLabel.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewInjetLabelReprint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLogin.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewLotNo.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewMaster.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLabelPrint_New.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrintPhilic.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrintPhobic.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrintPMMA.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprintPhilic.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprintPhobic.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchReprintPMMA.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRejection.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewRptCollection.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterilization.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewSterSample.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewStockValidation.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmNewTrayGenerationForm.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewUserCreation.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPackng.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmPouch.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPouchLabelPrint_Superphob.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmPouchMMS_Report_RePrint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmPouch_MMS_Report.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerLabelPrint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPowerUpdation.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPrint1DBarcode.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmPrinter.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPRN_Report_PHILIC.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPRN_Report_PHOBIC.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmPRN_Report_PMMA.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmProcess_status.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRackChange.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRackLabelPrint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRackLocationDetails.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmReportLensTracking.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmRptAerationStockRpt.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmSampleScan.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmShrinkWarpReject.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmShrinkWarp_Rejection_MMS_Report.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmStationMaster.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmSterileBTupdate.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmSterileComple.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmSterileMachineReport.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmsterilemms.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmSterileMTSReport_Reprint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmSterileMTS_report.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmSterileRepack.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmSterilizationAfter_Scan.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmSterilizationRelease.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmSterilization_After_Scan.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmSterilization_After_Scan_PMMA.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmTrayChange.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmTrayLabelReprint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmTray_label_Reprint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmTurkeyGS1Label.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmUniqueno.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrnNewGalaxyBoxPacking.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrnNewGalaxyBoxPacking_Chennai.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrnNewGalaxyBoxPacking_Egypt.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.Menulblmstdatacre.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.injectorreportform.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.LensTracking.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.LoginForm.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.LotNoDataReport.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.MDIParent1.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.Resources.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmNewPouchLablePrint.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.NewPouchDetails.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.overall_stock.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.pouchreportform.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.Reason_Dashboard.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.Report.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.RptBPLView.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.RptVieUniq.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwCollection.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.RptViwPrsStsCollection.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.Steriliereport.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.vbproj.GenerateResource.Cache
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.exe
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.xml
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.pdb
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.Frmboxpackmms.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmBoxPacking_To_QC.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.Frminjecctor_to_sterilemove_Report.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.frmQC_To_boxPacking.resources
+E:\ISWARYA\APPASAMY_SOFT_17122014_ForAudit_Work_FINALSOURCE\APPASAMY\obj\Release\APPASAMY_SOFT.FrmQC_To_Lab.resources

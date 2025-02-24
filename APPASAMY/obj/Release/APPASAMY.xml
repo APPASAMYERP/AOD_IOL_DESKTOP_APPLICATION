@@ -1,0 +1,152 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+APPASAMY
+</name>
+</assembly>
+<members>
+<member name="T:APPASAMY.RpTemp.CollectionTempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:APPASAMY.RpTemp.CollectionTempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:APPASAMY.RpTemp.CollectionTempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:APPASAMY.RpTemp">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:APPASAMY.RpTempTableAdapters.CollectionTempTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:APPASAMY.RpTempTableAdapters.TableAdapterManager.UpdateUpdatedRows(APPASAMY.RpTemp,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:APPASAMY.RpTempTableAdapters.TableAdapterManager.UpdateInsertedRows(APPASAMY.RpTemp,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:APPASAMY.RpTempTableAdapters.TableAdapterManager.UpdateDeletedRows(APPASAMY.RpTemp,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:APPASAMY.RpTempTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:APPASAMY.RpTempTableAdapters.TableAdapterManager.UpdateAll(APPASAMY.RpTemp)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:APPASAMY.RpTempTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:APPASAMY.RpTempTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:APPASAMY.RpTempTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:APPASAMY.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:APPASAMY.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:APPASAMY.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:APPASAMY.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:APPASAMY.Rptdc.despatchtempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:APPASAMY.Rptdc.despatchtempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:APPASAMY.Rptdc.despatchtempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:APPASAMY.Rptdc">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:APPASAMY.RptdcTableAdapters.despatchtempTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:APPASAMY.RptdcTableAdapters.TableAdapterManager.UpdateUpdatedRows(APPASAMY.Rptdc,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:APPASAMY.RptdcTableAdapters.TableAdapterManager.UpdateInsertedRows(APPASAMY.Rptdc,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:APPASAMY.RptdcTableAdapters.TableAdapterManager.UpdateDeletedRows(APPASAMY.Rptdc,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:APPASAMY.RptdcTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:APPASAMY.RptdcTableAdapters.TableAdapterManager.UpdateAll(APPASAMY.Rptdc)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:APPASAMY.RptdcTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:APPASAMY.RptdcTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:APPASAMY.RptdcTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:APPASAMY.BPLList.BPLCollectionListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:APPASAMY.BPLList.BPLCollectionListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:APPASAMY.BPLList.BPLCollectionListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:APPASAMY.BPLList">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:APPASAMY.BPLListTableAdapters.BPLCollectionListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

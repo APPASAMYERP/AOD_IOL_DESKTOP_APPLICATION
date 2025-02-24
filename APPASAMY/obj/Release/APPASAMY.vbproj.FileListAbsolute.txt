@@ -1,0 +1,1020 @@
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.Home.resources
+D:\Team\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+D:\Team\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+D:\Team\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.Home.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+D:\Team\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+D:\Team\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+D:\29112011_Appasamy\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+D:\29112011_Appasamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+D:\29112011_Appasamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+D:\29112011_Appasamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+D:\JEI\PROJECT\A\AppaSamy\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+C:\team\Project\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+C:\team\Project\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+C:\team\Project\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+C:\team\Project\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.Home.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+C:\Team\Project\Pro\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+C:\Team\Project\Pro\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+C:\Team\Project\Pro\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+C:\Team\Project\Pro\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.Home.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+C:\Team\Project\Pro\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+F:\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+F:\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+F:\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+F:\Proj\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+F:\Proj\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.Home.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+F:\Proj\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+D:\team\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+D:\team\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+D:\team\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+D:\team\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+D:\team\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+C:\team\Project\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+D:\team\New folder\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+D:\team\New folder\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+D:\team\New folder\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+D:\team\New folder\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.Home.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+D:\team\New folder\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+F:\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+F:\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+F:\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+F:\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+F:\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.Home.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+F:\pendrive_Sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+D:\sivaram\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+D:\sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+D:\sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+D:\sivaram\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.Home.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+C:\Documents and Settings\MLP\Desktop\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+D:\team\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+F:\latest\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+F:\latest\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+F:\latest\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+F:\latest\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+F:\pRACTICElatest\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+F:\pRACTICElatest\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+F:\pRACTICElatest\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+F:\pRACTICElatest\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+F:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+I:\pRACTICElatest\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+I:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+I:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+I:\pRACTICElatest\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+I:\on going exe\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+I:\on going exe\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+I:\on going exe\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+I:\on going exe\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+I:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+F:\on going exe\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+F:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+F:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+F:\on going exe\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+F:\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+D:\team\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+D:\team\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+D:\team\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjetLabelReprint.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmmodelprint.resources
+D:\team\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmPrinter.resources
+I:\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+I:\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+I:\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+I:\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmmodelprint.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjetLabelReprint.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmPrinter.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+I:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+F:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+F:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+F:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+F:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+D:\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+D:\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+D:\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+D:\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmDespatchrpt.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmmodelprint.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjetLabelReprint.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmPrinter.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+D:\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmDespatchrpt.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmmodelprint.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjetLabelReprint.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmPrinter.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+I:\03082012_APSNEW\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmDespatchrpt.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmmodelprint.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjetLabelReprint.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmPrinter.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+D:\sivaram\PROJRCTS\A\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmDespatchrpt.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmmodelprint.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjetLabelReprint.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmPrinter.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+I:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+G:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+G:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+G:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+G:\completed appasamy\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmDespatchrpt.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmmodelprint.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjetLabelReprint.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmPrinter.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+F:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmDespatchrpt.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmmodelprint.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjetLabelReprint.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmPrinter.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+I:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.pdb
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\bin\Release\APPASAMY.xml
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\ResolveAssemblyReference.cache
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Convyer.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmBPLVIewFrm.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcPrintSoft.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmDcViewRpt.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmDespatchrpt.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmmodelprint.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBoxPacking.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewBPLGen.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmLotMaster.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmMain.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCartonBoxEntry.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCtrlSample.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewCustomerCatalog.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcSoft.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewDcPackingList.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjectLabel.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewInjetLabelReprint.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLogin.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewLotNo.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewMaster.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchReprint.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRejection.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewRptCollection.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterilization.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewSterSample.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewUserCreation.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPackng.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPowerLabelPrint.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmPrint1DBarcode.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.frmPrinter.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmProcess_status.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmRptAerationStockRpt.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmUniqueno.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Menulblmstdatacre.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.LoginForm.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.MDIParent1.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.Resources.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.FrmNewPouchLablePrint.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.NewPouchDetails.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptBPLView.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptVieUniq.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwCollection.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.RptViwPrsStsCollection.resources
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.vbproj.GenerateResource.Cache
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+G:\New folder\APPASAMY\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb
+C:\Users\admin\Desktop\final code\softlens\APPASAMY\APPASAMY\bin\Release\APPASAMY.exe.config
+C:\Users\admin\Desktop\final code\softlens\APPASAMY\APPASAMY\obj\Release\APPASAMY.exe
+C:\Users\admin\Desktop\final code\softlens\APPASAMY\APPASAMY\obj\Release\APPASAMY.xml
+C:\Users\admin\Desktop\final code\softlens\APPASAMY\APPASAMY\obj\Release\APPASAMY.pdb

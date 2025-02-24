@@ -1,0 +1,3 @@
+------ Build started: Project: APPASAMY_SOFT, Configuration: Debug Any CPU ------
+APPASAMY_SOFT -> K:\Important_Backup\Audit_PouchWork_Softlesn\APPASAMY_SOFT_17122014_ForAudit_Work\APPASAMY\bin\Debug\APPASAMY_SOFT.exe
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
