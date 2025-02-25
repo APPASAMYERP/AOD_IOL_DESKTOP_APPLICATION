@@ -482,6 +482,14 @@ Public Class LoginForm
         cmbStation.Text = ""
         If cmbProductLine.Text = "PMMA" Then
             conString = ConfigurationSettings.AppSettings("conStrPMMA").ToString()
+        ElseIf cmbProductLine.Text = "PHILIC" Then
+            conString = ConfigurationSettings.AppSettings("conStrPHILIC").ToString()
+        ElseIf cmbProductLine.Text = "PHOBIC" Then
+            conString = ConfigurationSettings.AppSettings("conStrPHOBIC").ToString()
+        ElseIf cmbProductLine.Text = "PHOBIC NONPRELOADED" Then
+            conString = ConfigurationSettings.AppSettings("conStrPHOBICNONPRE").ToString()
+        ElseIf cmbProductLine.Text = "SUPERPHOB" Then
+            conString = ConfigurationSettings.AppSettings("conStrSUPERPHOB").ToString()
         End If
 
         con = New SqlConnection(conString)
