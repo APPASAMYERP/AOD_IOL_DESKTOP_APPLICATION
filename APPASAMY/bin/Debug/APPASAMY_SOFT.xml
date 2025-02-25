@@ -6,7 +6,23 @@ APPASAMY_SOFT
 </name>
 </assembly>
 <members>
-<member name="T:APPASAMY_SOFT.Rptdc.despatchtempDataTable">
+<member name="T:APPASAMY_SOFT.DataSet_BoxPackingReport.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:APPASAMY_SOFT.DataSet_BoxPackingReport.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:APPASAMY_SOFT.DataSet_BoxPackingReport.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:APPASAMY_SOFT.DataSet_BoxPackingReport">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:APPASAMY_SOFT.Rptdc.despatchtempDataTable">
 	<summary>
 Represents the strongly named DataTable class.
 </summary>
@@ -110,6 +126,26 @@ Used to sort self-referenced table's rows
 	<summary>
 TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>
+</member><member name="T:APPASAMY_SOFT.BPLList.BPLCollectionListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:APPASAMY_SOFT.BPLList.BPLCollectionListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:APPASAMY_SOFT.BPLList.BPLCollectionListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:APPASAMY_SOFT.BPLList">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:APPASAMY_SOFT.BPLListTableAdapters.BPLCollectionListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
 </member><member name="T:APPASAMY_SOFT.DataSet_CollectionTemp.CollectionTempDataTable">
 	<summary>
 Represents the strongly named DataTable class.
@@ -162,6 +198,10 @@ Used to sort self-referenced table's rows
 	<summary>
 TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>
+</member><member name="T:APPASAMY_SOFT.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
 </member><member name="P:APPASAMY_SOFT.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
@@ -175,71 +215,19 @@ TableAdapterManager is used to coordinate TableAdapters in the dataset to enable
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
-</member><member name="T:APPASAMY_SOFT.RpTemp.CollectionTempDataTable">
+</member><member name="T:APPASAMY_SOFT.DataSet_BPList.BPLCollectionListDataTable">
 	<summary>
 Represents the strongly named DataTable class.
 </summary>
-</member><member name="T:APPASAMY_SOFT.RpTemp.CollectionTempRow">
+</member><member name="T:APPASAMY_SOFT.DataSet_BPList.BPLCollectionListRow">
 	<summary>
 Represents strongly named DataRow class.
 </summary>
-</member><member name="T:APPASAMY_SOFT.RpTemp.CollectionTempRowChangeEvent">
+</member><member name="T:APPASAMY_SOFT.DataSet_BPList.BPLCollectionListRowChangeEvent">
 	<summary>
 Row event argument class
 </summary>
-</member><member name="T:APPASAMY_SOFT.RpTemp">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:APPASAMY_SOFT.RpTempTableAdapters.CollectionTempTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="M:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.UpdateUpdatedRows(APPASAMY_SOFT.RpTemp,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Update rows in top-down order.
-</summary>
-</member><member name="M:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.UpdateInsertedRows(APPASAMY_SOFT.RpTemp,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Insert rows in top-down order.
-</summary>
-</member><member name="M:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.UpdateDeletedRows(APPASAMY_SOFT.RpTemp,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Delete rows in bottom-up order.
-</summary>
-</member><member name="M:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
-</summary>
-</member><member name="M:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.UpdateAll(APPASAMY_SOFT.RpTemp)">
-	<summary>
-Update all changes to the dataset.
-</summary>
-</member><member name="T:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.UpdateOrderOption">
-	<summary>
-Update Order Option
-</summary>
-</member><member name="T:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.SelfReferenceComparer">
-	<summary>
-Used to sort self-referenced table's rows
-</summary>
-</member><member name="T:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager">
-	<summary>
-TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
-</summary>
-</member><member name="T:APPASAMY_SOFT.DataSet_LotCollectionList.LotCollectionListDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:APPASAMY_SOFT.DataSet_LotCollectionList.LotCollectionListRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:APPASAMY_SOFT.DataSet_LotCollectionList.LotCollectionListRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:APPASAMY_SOFT.DataSet_LotCollectionList">
+</member><member name="T:APPASAMY_SOFT.DataSet_BPList">
 	<summary>
 Represents a strongly typed in-memory cache of data.
 </summary>
@@ -295,61 +283,73 @@ Used to sort self-referenced table's rows
 	<summary>
 TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>
-</member><member name="T:APPASAMY_SOFT.DataSet1">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:APPASAMY_SOFT.DataSet_BPList.BPLCollectionListDataTable">
+</member><member name="T:APPASAMY_SOFT.DataSet_LotCollectionList.LotCollectionListDataTable">
 	<summary>
 Represents the strongly named DataTable class.
 </summary>
-</member><member name="T:APPASAMY_SOFT.DataSet_BPList.BPLCollectionListRow">
+</member><member name="T:APPASAMY_SOFT.DataSet_LotCollectionList.LotCollectionListRow">
 	<summary>
 Represents strongly named DataRow class.
 </summary>
-</member><member name="T:APPASAMY_SOFT.DataSet_BPList.BPLCollectionListRowChangeEvent">
+</member><member name="T:APPASAMY_SOFT.DataSet_LotCollectionList.LotCollectionListRowChangeEvent">
 	<summary>
 Row event argument class
 </summary>
-</member><member name="T:APPASAMY_SOFT.DataSet_BPList">
+</member><member name="T:APPASAMY_SOFT.DataSet_LotCollectionList">
 	<summary>
 Represents a strongly typed in-memory cache of data.
 </summary>
-</member><member name="T:APPASAMY_SOFT.DataSet_BoxPackingReport.DataTable1DataTable">
+</member><member name="T:APPASAMY_SOFT.RpTemp.CollectionTempDataTable">
 	<summary>
 Represents the strongly named DataTable class.
 </summary>
-</member><member name="T:APPASAMY_SOFT.DataSet_BoxPackingReport.DataTable1Row">
+</member><member name="T:APPASAMY_SOFT.RpTemp.CollectionTempRow">
 	<summary>
 Represents strongly named DataRow class.
 </summary>
-</member><member name="T:APPASAMY_SOFT.DataSet_BoxPackingReport.DataTable1RowChangeEvent">
+</member><member name="T:APPASAMY_SOFT.RpTemp.CollectionTempRowChangeEvent">
 	<summary>
 Row event argument class
 </summary>
-</member><member name="T:APPASAMY_SOFT.DataSet_BoxPackingReport">
+</member><member name="T:APPASAMY_SOFT.RpTemp">
 	<summary>
 Represents a strongly typed in-memory cache of data.
 </summary>
-</member><member name="T:APPASAMY_SOFT.BPLList.BPLCollectionListDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:APPASAMY_SOFT.BPLList.BPLCollectionListRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:APPASAMY_SOFT.BPLList.BPLCollectionListRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:APPASAMY_SOFT.BPLList">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:APPASAMY_SOFT.BPLListTableAdapters.BPLCollectionListTableAdapter">
+</member><member name="T:APPASAMY_SOFT.RpTempTableAdapters.CollectionTempTableAdapter">
 	<summary>
 Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.UpdateUpdatedRows(APPASAMY_SOFT.RpTemp,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.UpdateInsertedRows(APPASAMY_SOFT.RpTemp,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.UpdateDeletedRows(APPASAMY_SOFT.RpTemp,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.UpdateAll(APPASAMY_SOFT.RpTemp)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:APPASAMY_SOFT.RpTempTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>
 </member>
 </members>

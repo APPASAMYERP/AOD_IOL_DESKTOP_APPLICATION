@@ -202,7 +202,7 @@ Public Class RptBPLView
 
         ' cryRpt.SetDatabaseLogon("sa", "iol123!@#")
 
-        cryRpt.SetDatabaseLogon("sa", "data123!@#")
+        'cryRpt.SetDatabaseLogon("sa", "data123!@#")
         CryViewBPLList.ReportSource = cryRpt
         ' CryViewBPLList.d()
 

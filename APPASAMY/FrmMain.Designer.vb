@@ -765,25 +765,25 @@ Partial Class FrmMain
         'BIDateUpdateToolStripMenuItem
         '
         Me.BIDateUpdateToolStripMenuItem.Name = "BIDateUpdateToolStripMenuItem"
-        Me.BIDateUpdateToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.BIDateUpdateToolStripMenuItem.Size = New System.Drawing.Size(151, 22)
         Me.BIDateUpdateToolStripMenuItem.Text = "BI Date update"
         '
         'BatchReleaseToolStripMenuItem1
         '
         Me.BatchReleaseToolStripMenuItem1.Name = "BatchReleaseToolStripMenuItem1"
-        Me.BatchReleaseToolStripMenuItem1.Size = New System.Drawing.Size(152, 22)
+        Me.BatchReleaseToolStripMenuItem1.Size = New System.Drawing.Size(151, 22)
         Me.BatchReleaseToolStripMenuItem1.Text = "Batch Release"
         '
         'FGTNToolStripMenuItem
         '
         Me.FGTNToolStripMenuItem.Name = "FGTNToolStripMenuItem"
-        Me.FGTNToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.FGTNToolStripMenuItem.Size = New System.Drawing.Size(151, 22)
         Me.FGTNToolStripMenuItem.Text = "FGTN "
         '
         'FGTNReportToolStripMenuItem
         '
         Me.FGTNReportToolStripMenuItem.Name = "FGTNReportToolStripMenuItem"
-        Me.FGTNReportToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.FGTNReportToolStripMenuItem.Size = New System.Drawing.Size(151, 22)
         Me.FGTNReportToolStripMenuItem.Text = "FGTN Report"
         '
         'InjectorToolStripMenuItem

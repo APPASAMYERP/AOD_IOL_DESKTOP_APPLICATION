@@ -69,5 +69,52 @@ Module initialize
         End Try
     End Sub
 
+
+
+
+    Public WithEvents inactivityTimer As New Timer()
+    Private lastActivityTime As DateTime
+
+    ' Start the inactivity timer when the application starts
+    Public Sub StartInactivityTracking()
+        inactivityTimer.Interval = 1000 ' Check every 1 second
+        AddHandler inactivityTimer.Tick, AddressOf CheckInactivity
+        lastActivityTime = DateTime.Now
+        inactivityTimer.Start()
+    End Sub
+
+    ' Reset the timer on user activity (Mouse, Keyboard, Click, Focus)
+    Public Sub ResetActivityTime(ByVal sender As Object, ByVal e As EventArgs)
+        lastActivityTime = DateTime.Now
+    End Sub
+
+    ' Check if inactivity has exceeded the timeout limit (60 seconds)
+    Private Sub CheckInactivity(ByVal sender As Object, ByVal e As EventArgs)
+        If (DateTime.Now - lastActivityTime).TotalSeconds >= 60 Then
+            inactivityTimer.Stop()
+            MessageBox.Show("Session timeout due to inactivity.", "Timeout", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            Application.Exit() ' Close the application
+        End If
+    End Sub
+
+    ' Attach activity detection to all open forms & controls dynamically
+    Public Sub AttachEventHandlersToForms()
+        For Each frm As Form In Application.OpenForms
+            ' Attach handlers to the form itself
+            AddHandler frm.MouseMove, AddressOf ResetActivityTime
+            AddHandler frm.KeyPress, AddressOf ResetActivityTime
+            AddHandler frm.MouseClick, AddressOf ResetActivityTime
+            AddHandler frm.KeyDown, AddressOf ResetActivityTime
+
+            ' Attach handlers to all controls inside the form
+            For Each ctrl As Control In frm.Controls
+                AddHandler ctrl.MouseMove, AddressOf ResetActivityTime
+                AddHandler ctrl.KeyPress, AddressOf ResetActivityTime
+                AddHandler ctrl.MouseClick, AddressOf ResetActivityTime
+                AddHandler ctrl.KeyDown, AddressOf ResetActivityTime
+            Next
+        Next
+    End Sub
+
 End Module
 

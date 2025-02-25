@@ -4,13 +4,7 @@ Imports System.IO
 Imports System.Drawing.Color
 Imports System.Configuration
 Public Class FrmMain
-
-    Private inactivityTimer As New Timer() 
-    'Private Const TimeOutDuration As Integer = 60000
-
-
-    Private inactivityThreshold As TimeSpan = TimeSpan.FromMinutes(10)
-    Private lastActivityTime As DateTime = DateTime.Now
+ 
 
     Private Sub PicHomeHeader_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
 
@@ -29,49 +23,20 @@ Public Class FrmMain
 
     End Sub
 
-    Private Sub CheckInactivity(ByVal sender As Object, ByVal e As EventArgs)
-        If DateTime.Now - lastActivityTime >= inactivityThreshold Then
-            ' User has been inactive for 10 minutes
-            Logout()
-        End If
-    End Sub
-
-    Private Sub ResetInactivity(ByVal sender As Object, ByVal e As EventArgs)
-        lastActivityTime = DateTime.Now
-    End Sub
-
-    Private Sub Logout()
-        inactivityTimer.Stop()
-        MessageBox.Show("You have been logged out due to inactivity.", "Session Timeout", MessageBoxButtons.OK, MessageBoxIcon.Information)
-        ' Perform logout operations like closing the form or navigating to a login form
-
-        Me.Close()
-    
- 
-    End Sub
+     
 
 
 
     Private Sub FrmMain_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-        'conString = ConfigurationSettings.AppSettings("ConStr").ToString()
-        'con = New SqlConnection(conString)
-        'Try
-        '    con.Open()
-        'Catch ex As Exception
-        '    MsgBox(ex.Message)
-        'End Try
-
          
-        ' Configure the timer
-        inactivityTimer.Interval = 1000 ' Check every second
-        AddHandler inactivityTimer.Tick, AddressOf CheckInactivity
-        inactivityTimer.Start()
-
-        ' Capture activity events
-        AddHandler Me.MouseMove, AddressOf ResetInactivity
-        AddHandler Me.KeyDown, AddressOf ResetInactivity
 
 
+        If Not inactivityTimer.Enabled Then
+            StartInactivityTracking()
+        End If
+
+        ' Attach activity tracking to all forms & controls
+        AttachEventHandlersToForms()
 
 
         UsernameLabel.Text = StrLoginUser
@@ -1206,5 +1171,10 @@ Public Class FrmMain
         Dim ChildOfMDIChildSterilization As New frmBatchRelease2
         ChildOfMDIChildSterilization.MdiParent = Me
         ChildOfMDIChildSterilization.Show()
+    End Sub
+
+    Private Sub FrmMain_MdiChildActivate(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.MdiChildActivate
+        AttachEventHandlersToForms()
+
     End Sub
 End Class
